@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=arrayList
+comment0.target=ArrayListMethods(java.util.ArrayList)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayListMethods\r\n
+comment1.params=
+comment1.target=boolean\ isSorted()
+comment1.text=\r\n\ Determines\ if\ the\ array\ list\ is\ sorted\ (do\ not\ sort)\r\n\ When\ Strings\ are\ sorted,\ they\ are\ in\ alphabetical\ order\r\n\ Use\ the\ compareTo\ method\ to\ determine\ which\ string\ comes\ first\r\n\ You\ can\ look\ at\ the\ String\ compareTo\ method\ in\ the\ Java\ API\r\n\ @return\ true\ if\ the\ array\ list\ is\ sorted\ else\ false.\r\n
+comment2.params=
+comment2.target=void\ replaceWithLargerNeighbor()
+comment2.text=\r\n\ Replaces\ all\ but\ the\ first\ and\ last\ with\ the\ larger\ of\ its\ to\ neighbors\r\n\ You\ can\ use\ compareTo()\ to\ determine\ which\ string\ is\ larger\ (later\ in\ alphabetical\r\n\ order.)\r\n
+comment3.params=
+comment3.target=int\ countDuplicates()
+comment3.text=\r\n\ Gets\ the\ number\ of\ duplicates\ in\ the\ list.\r\n\ (Be\ careful\ to\ only\ count\ each\ duplicate\ once.\ \r\n\ Start\ at\ index\ 0.\ Does\ it\ match\ any\ of\ the\ other\ element?\r\n\ Get\ the\ next\ word.\ It\ is\ at\ index\ i.\ \r\n\ Does\ it\ match\ any\ of\ the\ words\ with\ index\ >\ i?)\r\n\ @return\ the\ number\ of\ duplicate\ words\ in\ the\ list\r\n
+comment4.params=
+comment4.target=void\ xyzToFront()
+comment4.text=\r\n\ Move\ any\ word\ that\ starts\ with\ x,\ y,\ or\ z\ to\ the\ front\ of\ the\ arraylist,\ but\r\n\ otherwise\ preserve\ the\ order\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ gets\ the\ string\ representation\ of\ this\ array\ list\r\n\ @returns\ the\ string\ representation\ of\ this\ array\ list\ in\r\n\ standard\ collectiuon\ format\r\n
+numComments=6

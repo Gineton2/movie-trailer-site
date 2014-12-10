@@ -1,0 +1,45 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.7.0_25\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;F:\C0D3\ps8\hw8a\final_files
+-d
+F:\C0D3\ps8\hw8a\final_files\doc
+-encoding
+US-ASCII
+-charset
+US-ASCII
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+F:\C0D3\ps8\hw8a\final_files\Picture.java
+<---- end of javadoc command ---->
+Loading source file F:\C0D3\ps8\hw8a\final_files\Picture.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_25
+Building tree for all the packages and classes...
+Generating F:\C0D3\ps8\hw8a\final_files\doc\Picture.html...
+F:\C0D3\ps8\hw8a\final_files\Picture.java:230: warning - @param argument "color" is not a parameter name.
+F:\C0D3\ps8\hw8a\final_files\Picture.java:279: warning - Parameter "dw" is documented more than once.
+F:\C0D3\ps8\hw8a\final_files\Picture.java:249: warning - @param argument "the" is not a parameter name.
+Generating F:\C0D3\ps8\hw8a\final_files\doc\package-frame.html...
+Generating F:\C0D3\ps8\hw8a\final_files\doc\package-summary.html...
+Generating F:\C0D3\ps8\hw8a\final_files\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating F:\C0D3\ps8\hw8a\final_files\doc\allclasses-frame.html...
+Generating F:\C0D3\ps8\hw8a\final_files\doc\allclasses-noframe.html...
+Generating F:\C0D3\ps8\hw8a\final_files\doc\index.html...
+Generating F:\C0D3\ps8\hw8a\final_files\doc\stylesheet.css...
+3 warnings

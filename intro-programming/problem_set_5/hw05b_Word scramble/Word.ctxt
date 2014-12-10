@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Word()
+comment1.params=word
+comment1.target=java.lang.String\ scramble(java.lang.String)
+comment1.text=\r\n\ Gets\ a\ version\ of\ this\ word\ with\ the\ leters\ scrambled\r\n\ @param\ word\ the\ string\ to\ scramble\r\n\ @return\ the\ scrabled\ string\r\n
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Person(java.lang.String)
+comment0.text=\r\n\ Sets\ the\ Person's\ name.\r\n\ @param\ the\ Persons's\ name.\r\n
+comment1.params=friend
+comment1.target=void\ addFriend(Person)
+comment1.text=\r\n\ Adds\ the\ given\ friend\ to\ this\ Person's\ friends\ list.\r\n\ @param\ friend\ the\ friend\ to\ add.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFriends()
+comment2.text=\r\n\ Gets\ a\ list\ of\ all\ of\ this\ Person's\ friends.\r\n\ @return\ the\ names\ of\ the\ friends\ separated\ by\ a\ comma\ and\ a\ space.\r\n\ \ \ \ \ e.g.\ "Sara,\ Cheng-Han,\ Cay"\r\n
+comment3.params=friendIndex
+comment3.target=java.lang.String\ getFriend(int)
+comment3.text=\r\n\ Gets\ a\ friend\ at\ a\ given\ index.\r\n\ @param\ friendIndex\ the\ index\ at\ which\ to\ find\ the\ friend\ (starting\ at\ 0)\r\n\ @return\ the\ name\ of\ the\ friend\ at\ friendIndex,\ or\ ""\ if\ the\ friend\ is\ not\ present\r\n
+numComments=4

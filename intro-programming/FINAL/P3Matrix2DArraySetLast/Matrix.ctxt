@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=Matrix(int[][])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Matrix\r\n\ @param\ array\ a\ 2-d\ array\r\n
+comment1.params=value
+comment1.target=void\ setLast(int)
+comment1.text=\r\n\ Sets\ the\ value\ of\ the\ element\ in\ the\ last\ column\ of\ the\ last\ row\r\n\ @param\ value\ the\ value\ to\ set\r\n
+comment2.params=
+comment2.target=int[]\ getLastRow()
+numComments=3

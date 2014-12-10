@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=text\ target
+comment0.target=int\ getCount(java.util.ArrayList,\ java.lang.String)
+comment0.text=\r\n\ Gets\ the\ number\ of\ strings\ that\ starts\ with\ the\ target\r\n\ @param\ text\ the\ array\ list\ to\ process\r\n\ @param\ target\ the\ desired\ letter\r\n\ @return\ the\ count\ of\ strings\ starting\ with\ target\r\n
+numComments=1

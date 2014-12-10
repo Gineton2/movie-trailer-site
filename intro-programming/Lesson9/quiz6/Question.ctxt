@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Question()
+comment0.text=\r\n\ \ \ \ \ \ \ Constructs\ a\ question\ with\ empty\ question\ and\ answer.\r\n
+comment1.params=questionText
+comment1.target=void\ setText(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ \ Sets\ the\ question\ text.\r\n\ \ \ \ \ \ \ @param\ questionText\ the\ text\ of\ this\ question\r\n
+comment2.params=correctResponse
+comment2.target=void\ setAnswer(java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ \ Sets\ the\ answer\ for\ this\ question.\r\n\ \ \ \ \ \ \ @param\ correctResponse\ the\ answer\r\n
+comment3.params=response
+comment3.target=boolean\ checkAnswer(java.lang.String)
+comment3.text=\r\n\ \ \ \ \ \ \ Checks\ a\ given\ response\ for\ correctness.\r\n\ \ \ \ \ \ \ @param\ response\ the\ response\ to\ check\r\n\ \ \ \ \ \ \ @return\ true\ if\ the\ response\ was\ correct,\ false\ otherwise\r\n
+comment4.params=
+comment4.target=void\ display()
+comment4.text=\r\n\ \ \ \ \ \ \ Displays\ this\ question.\r\n
+numComments=5

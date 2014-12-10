@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=text\ target
+comment0.target=java.lang.String\ getTarget(java.util.ArrayList,\ java.lang.String)
+comment0.text=\r\n\ Gets\ the\ first\ String\ that\ starts\ with\ the\ target\r\n\ @param\ text\ the\ array\ list\ to\ process\r\n\ @param\ target\ the\ desired\ letter\r\n\ @return\ the\ first\ string\ starting\ with\ target\ or\ null\ if\ not\ found\r\n
+numComments=1

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=maxScores
+comment0.target=HomeworkScores(int)
+comment0.text=\r\n\ @param\ maxScores\ the\ maximum\ number\ of\ scores\ this\ object\ can\ hold.\r\n
+comment1.params=
+comment1.target=double\ averageScore()
+comment1.text=\r\n\ Calculates\ the\ average\ of\ all\ the\ scores\ collected\ so\ far.\r\n\ @return\ the\ average\ of\ the\ scores\ in\ scores.\r\n
+comment2.params=userInput
+comment2.target=void\ readScores(java.util.Scanner)
+comment3.params=
+comment3.target=double\ sumScores()
+comment3.text=\r\n\ Calculates\ the\ sum\ of\ all\ the\ scores\ entered.\r\n\ @return\ the\ sum\ of\ all\ the\ scores\ in\ scores.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Builds\ an\ easy-to-read\ description\ of\ the\ scores\ in\ the\ object.\r\n\ @return\ A\ description\ of\ the\ scores.\r\n
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pic
+comment0.target=Picture\ grayAndFlipLeftToRight(Picture)
+comment0.text=\r\n\ Gets\ a\ version\ of\ the\ given\ Picture\ in\ gray\ scale\ and\ flipped\ left\ to\ right\r\n\ @param\ pic\ the\ Picture\ to\ convert\ to\ gray\ scale\ and\ flip\r\n\ @return\ a\ version\ of\ the\ original\ Picture\ in\ gray\ scale\ and\ flipped\r\n\ left\ to\ right.\r\n
+comment1.params=pic
+comment1.target=Picture\ grayAndRotate90(Picture)
+comment1.text=\r\n\ Gets\ a\ version\ of\ the\ given\ Picture\ in\ gray\ scale\ and\ rotated\ 90\ degrees\ clockwise\r\n\ @param\ pic\ the\ Picture\ to\ convert\ to\ gray\ scale\ and\ rotate\ 90\ degrees\ clockwise\r\n\ @return\ a\ version\ of\ the\ original\ Picture\ in\ gray\ scale\ and\ rotated\ 90\ degrees\ clockwise\r\n
+numComments=2

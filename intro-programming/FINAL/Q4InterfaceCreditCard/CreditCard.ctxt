@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=transfer
+comment0.target=CreditCard(double)
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ credit\ card\ with\ a\ zero\ balance.\r\n
+comment1.params=amount
+comment1.target=void\ payment(double)
+comment1.text=\r\n\ \ \ \ \ \ Makes\ a\ payment\ to\ \ credit\ card.\r\n\ \ \ \ \ \ @param\ amount\ the\ amount\ to\ pay\r\n
+comment2.params=amount
+comment2.target=void\ purchase(double)
+comment2.text=\r\n\ \ \ \ \ \ Makes\ a\ purchase\ with\ the\ credit\ card\r\n\ \ \ \ \ \ @param\ amount\ the\ amount\ of\ the\ purchase\r\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment3.text=\r\n\ \ \ \ \ \ Gets\ the\ current\ balance\ of\ the\ credit\ card.\r\n\ \ \ \ \ \ @return\ the\ current\ balance\r\n
+comment4.params=card
+comment4.target=int\ compareTo(CreditCard)
+numComments=5

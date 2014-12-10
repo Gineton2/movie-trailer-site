@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=q\ in
+comment1.target=int\ presentQuestion(Question,\ java.util.Scanner)
+comment1.text=\r\n\ \ \ \ \ \ \ Presents\ a\ question\ to\ the\ user\ and\ obtains\ a\ response.\r\n\ \ \ \ \ \ \ @param\ q\ the\ question\ to\ present\r\n\ \ \ \ \ \ \ @param\ in\ the\ scanner\ from\ which\ to\ read\ the\ user\ input\r\n\ \ \ \ \ \ \ @return\ the\ score\ (1\ if\ correct,\ 0\ if\ incorrect)\r\n
+numComments=2

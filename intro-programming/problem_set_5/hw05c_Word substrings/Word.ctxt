@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=Word(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getSubstrings()
+comment1.text=\r\n\ Gets\ all\ the\ substrings\ of\ this\ Word.\r\n\ @return\ all\ substrings\ of\ this\ Word\ separated\ by\ newline\r\n
+numComments=2

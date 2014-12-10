@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=aTolerance
+comment0.target=NumericQuestion(double)
+comment0.text=\r\n\ \ \ \ \ \ \ Constructs\ a\ numeric\ question.\r\n\ \ \ \ \ \ \ @param\ aTolerance\ the\ tolerance\ that\ is\ allowed\ when\r\n\ \ \ \ \ \ \ checking\ the\ answer.\ For\ example,\ if\ tolerance\ is\ 0.01,\ then\r\n\ \ \ \ \ \ \ the\ response\ may\ be\ up\ to\ 0.01\ away\ from\ the\ correct\ answer.\r\n
+comment1.params=number
+comment1.target=void\ setAnswer(double)
+comment2.params=response
+comment2.target=boolean\ checkAnswer(java.lang.String)
+numComments=3

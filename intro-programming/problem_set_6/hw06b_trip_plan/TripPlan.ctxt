@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TripPlan()
+comment0.text=\r\n\ Constructs\ an\ empty\ trip\ (Initiallize\ instance\ variable)\r\n
+comment1.params=cityName
+comment1.target=void\ addCity(java.lang.String)
+comment1.text=\r\n\ Add\ a\ city\ to\ the\ list.\r\n\ @param\ cityName\ the\ city\ to\ add\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ a\ string\ describing\ the\ object.\r\n\ @return\ a\ string\ in\ the\ format\ "TripPlan[cityName1,cityName2,...]"\r\n
+comment3.params=cityName
+comment3.target=void\ removeCity(java.lang.String)
+comment3.text=\r\n\ Removes\ a\ city\ form\ the\ this\ trip\r\n\ @param\ cityName\ city\ to\ remove\r\n
+comment4.params=
+comment4.target=void\ reverse()
+comment4.text=\r\n\ Reverses\ the\ elements\ in\ the\ itinerary.\r\n
+numComments=5

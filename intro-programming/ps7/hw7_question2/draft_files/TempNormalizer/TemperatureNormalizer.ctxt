@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=TemperatureNormalizer(double[])
+comment0.text=\r\n\ \ \ /*\ Constructs\ a\ TemperatureNormalizer\ with\ the\ given\ array\r\n\ \ \ /*\ @param\ the\ array\ to\ process\r\n
+comment1.params=
+comment1.target=double\ getAdjustedAverage()
+comment1.text=\r\n\ Gets\ the\ adjusted\ average\ of\ the\ values\ in\ this\ array.\ The\ adjusted\ average\r\n\ is\ calculated\ by\ removing\ the\ highest\ and\ lowest\ values\ and\ calculating\r\n\ the\ average\ of\ the\ values\ that\ are\ left\r\n\ @return\ the\ adjusted\ average\r\n
+comment2.params=
+comment2.target=double\ getMax()
+comment2.text=\r\n\ Gets\ the\ maximum\ value\ in\ the\ array\ of\ doubles\r\n\ @return\ the\ maximum\ value\r\n
+comment3.params=
+comment3.target=double\ getMin()
+comment3.text=\r\n\ Gets\ the\ minimum\ value\ in\ the\ array\ of\ doubles\r\n\ @return\ the\ minimum\ value\r\n
+comment4.params=
+comment4.target=double\ getSum()
+comment4.text=\r\n\ Gets\ the\ sum\ of\ the\ values\ in\ the\ array\r\n\ @return\ the\ sum\ of\ the\ values\ in\ the\ array\r\n
+numComments=5
