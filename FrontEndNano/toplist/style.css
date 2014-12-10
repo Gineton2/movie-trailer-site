@@ -1,10 +1,13 @@
 .description {
-    color: red;
+    max-width: 705px;
+    font-family: sans-serif;
+    color: #7C8B88;
+    font-size: 25px;
+    font-weight: 200;
+    margin-left: 35px;
 }
 
-* {
-    outline: 1px solid red !important;
-}
+
 
 * {
     -webkit-box-sizing: border-box;
@@ -16,4 +19,18 @@
 .app {
     display: -webkit-flex;
     display: flex;
+}
+
+.screenshot {
+    max-width: 460px;
+}
+h1 {
+    background-color: #33BEBE;
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 60px;
+    padding: 40px 0px 0px 10px;
+    margin-bottom: 55px;
 }
