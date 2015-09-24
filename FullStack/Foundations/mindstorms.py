@@ -1,5 +1,31 @@
 import turtle
 
+zelda = turtle.Turtle()
+#zelda.shape("")
+zelda.tracer(0)
+zelda.color("yellow")
+zelda.speed(0)
+
+
+def draw_triforce_fractal():
+	draw_tritriforce()
+	zelda.forward(4*22.5)
+	draw_tritriforce()
+	zelda.forward(22.5)
+	zelda.left(120)
+	zelda.forward(7*22.5)
+	draw_tritriforce()
+
+def draw_tritriforce():
+	for tritriforce in xrange(3):
+		for triforce in xrange(4):
+			zelda.fill(True)
+			for pieces in xrange(4):
+				zelda.forward(22.5)
+				zelda.left(120)
+			zelda.fill(False)
+			zelda.forward(22.5)
+		zelda.forward(2*22.5)
 
 
 def draw_square():
@@ -32,49 +58,6 @@ def draw_circle():
 	angie.speed(7)
 	angie.circle(75)
 
-def draw_triforce_fractal():
-	zelda = turtle.Turtle()
-	# zelda.shape("triangle")
-	zelda.color("yellow")
-	zelda.speed(0)
-	#for tritritriforce in xrange(2):
-	for tritriforce in xrange(3):
-		for triforce in xrange(4):
-			zelda.fill(True)
-			for pieces in xrange(4):
-				zelda.forward(22.5)
-				zelda.left(120)
-			zelda.fill(False)
-			zelda.forward(22.5)
-		zelda.forward(2*22.5)
-	zelda.forward(4*22.5)
-	for tritriforce in xrange(3):
-		for triforce in xrange(4):
-			zelda.fill(True)
-			for pieces in xrange(4):
-				zelda.forward(22.5)
-				zelda.left(120)
-			zelda.fill(False)
-			zelda.forward(22.5)
-		zelda.forward(2*22.5)
-	zelda.forward(22.5)
-	zelda.left(120)
-	zelda.forward(7*22.5)
-	for tritriforce in xrange(3):
-		for triforce in xrange(4):
-			zelda.fill(True)
-			for pieces in xrange(4):
-				zelda.forward(22.5)
-				zelda.left(120)
-			zelda.fill(False)
-			zelda.forward(22.5)
-		zelda.forward(2*22.5)
-
-
-
-
-
-
 def draw_triangle():
 	danny = turtle.Turtle()
 	danny.shape("circle")
@@ -84,8 +67,6 @@ def draw_triangle():
 	for turns in xrange(3):
 		danny.forward(100)
 		danny.left(120)
-
-#draw_square()
 
 def draw_shapes():
 	window = turtle.Screen()
