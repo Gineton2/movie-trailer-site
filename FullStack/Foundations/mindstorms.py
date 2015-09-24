@@ -37,17 +37,17 @@ def draw_triforce_fractal():
 	# zelda.shape("triangle")
 	zelda.color("yellow")
 	zelda.speed(0)
+	
 	for fractal in xrange(3):
-		for fractal in xrange(3):
-			for triforce in xrange(3):
-				zelda.fill(True)
-				for pieces in xrange(4):
-					zelda.forward(22.5)
-					zelda.left(120)
-				zelda.fill(False)
+		for triforce in xrange(4):
+			zelda.fill(True)
+			for pieces in xrange(4):
 				zelda.forward(22.5)
-			zelda.forward(2*22.5)
-		zelda.left(60)
+				zelda.left(120)
+			zelda.fill(False)
+			zelda.forward(22.5)
+		zelda.forward(2*22.5)
+
 
 
 
