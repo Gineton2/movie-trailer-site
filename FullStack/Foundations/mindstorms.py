@@ -1,7 +1,7 @@
 import turtle
 
 zelda = turtle.Turtle()
-zelda.tracer(0)
+#zelda.tracer(0)
 zelda.color("yellow")
 zelda.speed(0)
 
