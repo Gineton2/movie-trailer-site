@@ -33,4 +33,6 @@ two_thousand_one = media.Movie("2001: A Space Odyssey",
 
 movies = [toy_story, avatar, the_matrix, interstellar, the_martian, two_thousand_one]
 
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+
+print(media.Movie.__module__)
