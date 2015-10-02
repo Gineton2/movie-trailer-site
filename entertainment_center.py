@@ -11,10 +11,10 @@ contact = media.Movie("Contact",
 	"https://upload.wikimedia.org/wikipedia/en/7/75/Contact_ver2.jpg",
 	"https://www.youtube.com/watch?v=SRoj3jK37Vc")
 
-the_matrix = media.Movie("The Matrix", 
+gravity = media.Movie("Gravity", 
 	"A hacker uncovers a secret about reality that changes everything.", 
-	"https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg", 
-	"https://www.youtube.com/watch?v=vKQi3bBA1y8")
+    "https://upload.wikimedia.org/wikipedia/en/f/f6/Gravity_Poster.jpg",
+    "http://www.youtube.com/watch?v=OiTiKOy59o4")
 
 interstellar = media.Movie("Interstellar", 
 	"A crew of astronauts search for humanity\'s new home.",
