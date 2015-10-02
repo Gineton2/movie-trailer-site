@@ -1,15 +1,15 @@
 import media
 import fresh_tomatoes
 
-toy_story = media.Movie("Toy Story", 
-	"A story about a boy and his toys that come to life.", 
-	"https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg", 
-	"https://www.youtube.com/watch?v=KYz2wyBy3kc")
+apollo_13 = media.Movie("Apollo 13", 
+	"The astronauts on the Apollo 13 mission to the moon .", 
+	"https://upload.wikimedia.org/wikipedia/en/9/9e/Apollo_thirteen_movie.jpg", 
+	"https://www.youtube.com/watch?v=nEl0NsYn1fU")
 
-avatar = media.Movie("Avatar",
-	"A marine is tasked with getting resources on an inhabited alien planet.",
-	"https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
-	"https://www.youtube.com/watch?v=5PSNL1qE6VY")
+contact = media.Movie("Contact",
+	"Scientists detect a signal from a distant planet.",
+	"https://upload.wikimedia.org/wikipedia/en/7/75/Contact_ver2.jpg",
+	"https://www.youtube.com/watch?v=SRoj3jK37Vc")
 
 the_matrix = media.Movie("The Matrix", 
 	"A hacker uncovers a secret about reality that changes everything.", 
@@ -31,7 +31,7 @@ two_thousand_one = media.Movie("2001: A Space Odyssey",
 	"https://upload.wikimedia.org/wikipedia/en/e/ef/2001_A_Space_Odyssey_Style_B.jpg", 
 	"https://www.youtube.com/watch?v=lfF0vxKZRhc")
 
-movies = [toy_story, avatar, the_matrix, interstellar, the_martian, two_thousand_one]
+movies = [apollo_13, contact, the_matrix, interstellar, the_martian, two_thousand_one]
 
 #fresh_tomatoes.open_movies_page(movies)
 
