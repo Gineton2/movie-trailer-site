@@ -107,7 +107,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">SPAAACE MOVIES</a>
           </div>
         </div>
       </div>
@@ -152,7 +152,7 @@ def create_movie_tiles_content(movies):
 
 def open_movies_page(movies):
     # Create or overwrite the output file
-    output_file = open('fresh_tomatoes.html', 'w')
+    output_file = open('spaaace_movies.html', 'w')
 
     # Replace the movie tiles placeholder generated content
     rendered_content = main_page_content.format(
